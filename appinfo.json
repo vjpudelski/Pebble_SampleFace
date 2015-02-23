@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "vjpudelski@gmail.com",
+    "longName": "Pebble_SampleFace",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Pebble_SampleFace",
+    "uuid": "67e9f91a-e2a7-4eb8-9ee1-035739bad113",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
